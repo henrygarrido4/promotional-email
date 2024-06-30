@@ -1,0 +1,730 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Roboto"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    />
+    <mj-style> * { box-sizing: border-box; } </mj-style>
+    <mj-style inline="inline">
+      .header { background-color: #fff; border-bottom: .1px solid #f2f2f2; }
+      .footer__bottom__border { border-bottom: 1px solid #ececec; }
+      .footer__links { color: #000; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#fff">
+    <!-- #HEADER -->
+    <mj-section css-class="header">
+      <mj-column>
+        <mj-image
+          href="https://www.express.com/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4652275322191872lw5473751697563648li0#no_universal_link"
+          src="https://exclusivecutz.com/express/logo.png"
+          alt="express logo"
+          width="173px"
+          align="center"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #TOP-SECTION -->
+    <mj-section padding-top="10px" padding-bottom="0px">
+      <mj-column>
+        <mj-image
+          href="https://wallet.3cinteractive.com/passes/4f418060-60d7-11eb-956c-a9f72c1db33c/landing.html?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264sa5510809251864576gw5697312164798464lw5945831326867456li0"
+          src="https://exclusivecutz.com/express/top-section.jpg"
+          alt="Deals to save"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column width="350px">
+        <mj-text
+          align="center"
+          font-weight="normal"
+          font-size="16px"
+          css-class="promo"
+        >
+          Online Promo Code: 1241542443002100 In Store Promo Code: 2099
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- #OFFER-SECTION -->
+    <mj-section padding="10px 0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          href="https://www.express.com/mens-clothing/discounts/cat4690004?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw6551393425022976lw6749656631599104li0"
+          src="https://exclusivecutz.com/express/offer-section.jpg"
+          alt="offer section"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #HERO -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          href="https://www.express.com/mens-clothing/shirts/tees-henleys/perfect-tee/cat5050231?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5126060679225344li0"
+          src="https://exclusivecutz.com/express/hero-section.jpg"
+          alt="brown tank top"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #SHIRT-COLLECTION -->
+    <mj-wrapper padding="0px">
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/perfect-pima-cotton-crew-neck-t-shirt/pro/04779555/color/BLUE%20FOG/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw6251960586067968li0"
+              src="https://exclusivecutz.com/express/1st-shirt.jpg"
+              alt="blue shirt"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/crew-neck-perfect-pima-cotton-tank-top/pro/04771026/color/Warm%20Ivory/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw6251960586067968li1"
+              src="https://exclusivecutz.com/express/2nd-shirt.jpg"
+              alt="white tank"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/perfect-pima-cotton-crew-neck-t-shirt/pro/04779555/color/ICED%20AQUA/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw6251960586067968li2"
+              src="https://exclusivecutz.com/express/3rd-shirt.jpg"
+              alt="pima shirt"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/crew-neck-perfect-pima-cotton-tank-top/pro/04771026/color/dark%20blue/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4844585702514688li0"
+              src="https://exclusivecutz.com/express/4th-shirt.jpg"
+              alt="blue tank top"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/mens-clothing/shirts/tees-henleys/perfect-tee/cat5050231/filter/type_uFilter:Tees%20%26%20Henleys?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4844585702514688li1"
+              src="https://exclusivecutz.com/express/star-section-1.jpg"
+              alt="white shirt"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/mens-clothing/shirts/tees-henleys/perfect-tee/cat5050231/filter/type_uFilter:Tanks?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4844585702514688li2"
+              src="https://exclusivecutz.com/express/star-section-2.jpg"
+              alt="tees section"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/crew-neck-perfect-pima-cotton-tank-top/pro/04771026/color/BRIGHT%20WHITE/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4844585702514688li3"
+              src="https://exclusivecutz.com/express/5th-shirt.jpg"
+              alt="tanks section"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/perfect-pima-cotton-crew-neck-t-shirt/pro/04779555/color/ICED%20AQUA/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5970485609357312li0"
+              src="https://exclusivecutz.com/express/6th-shirt.jpg"
+              alt="white tanks"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/crew-neck-perfect-pima-cotton-tank-top/pro/04771026/color/BLUE%20FOG/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5970485609357312li1"
+              src="https://exclusivecutz.com/express/7th-shirt.jpg"
+              alt="light-green shirt"
+            />
+          </mj-column>
+
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/perfect-pima-cotton-crew-neck-t-shirt/pro/04779555/color/Cactus/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5970485609357312li2"
+              src="https://exclusivecutz.com/express/8th-shirt.jpg"
+              alt="white tank"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #HAWAIIN-EDITION -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/green-hawain-shirt.jpg"
+          alt="green hawai shirt"
+          href="https://www.express.com/clothing/men/relaxed-bordered-palm-print-perfect-pima-cotton-t-shirt/pro/04776912/color/Olive%20Green/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5407535655936000li0"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/white-hawain-shirt.jpg"
+          href="https://www.express.com/clothing/men/bordered-parrot-stamp-graphic-perfect-pima-cotton-t-shirt/pro/04771620/color/BRIGHT%20WHITE/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw6533435562778624li0"
+          alt="white hawai shirt"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          src="https://exclusivecutz.com/express/now-in-fresh.jpg"
+          alt="Pima Cotton"
+          href="https://www.express.com/mens-clothing/shirts/tees-henleys/perfect-tee/cat5050231?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4703848214159360li0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #THREE-IMAGE-LAYOUT -->
+    <mj-wrapper padding="0px">
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/crew-neck-perfect-pima-cotton-tank-top/pro/04771026/color/BRIGHT%20WHITE/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5829748121001984li0"
+              src="https://exclusivecutz.com/express/t-shirt-1.jpg"
+              alt="white t-shirt"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/mens-clothing/shirts/tees-henleys/perfect-tee/cat5050231?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5829748121001984li1"
+              src="https://exclusivecutz.com/express/side-t-shirt.jpg"
+              alt="browse collection"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/crew-neck-perfect-pima-cotton-tank-top/pro/04771026/color/BRIGHT%20WHITE/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5266798167580672li0"
+              src="https://exclusivecutz.com/express/bottom-t-shirt.jpg"
+              alt="white tanks"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.express.com/clothing/men/perfect-pima-cotton-crew-neck-t-shirt/pro/04779555/color/BRIGHT%20WHITE/e/regular/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw5266798167580672li1"
+              src="https://exclusivecutz.com/express/2nd-side-t-shirt.jpg"
+              alt="white t-shirt"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #MORE-TO-PICK -->
+    <mj-wrapper>
+      <mj-section padding="0px">
+        <mj-column>
+          <mj-image
+            src="https://exclusivecutz.com/express/more-to-pick.jpg"
+            alt="More shirts text"
+            padding="0px"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-1.jpg"
+              href="https://www.express.com/clothing/men/8%22-hyper-stretch-chino-shorts/pro/03533433/color/dark%20gray/?bc_pid=MDM1MzM0MzM%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="chino shorts"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-2.jpg"
+              href="https://www.express.com/clothing/men/6%22-hyper-stretch-chino-shorts/pro/03533432/color/Chalk/?bc_pid=MDM1MzM0MzI%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="chino shorts"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-3.jpg"
+              href="https://www.express.com/clothing/men/7%22-linen-blend-drawstring-elastic-waist-shorts/pro/03533442/color/Light%20Blue/?bc_pid=MDM1MzM0NDI%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="waist shorts"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-4.jpg"
+              href="https://www.express.com/clothing/men/8%22-everyday-performance-shorts/pro/03533466/color/Metallic%20Bronze/?bc_pid=MDM1MzM0NjY%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="performance shorts"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-5.jpg"
+              href="https://www.express.com/clothing/men/7%22-drawstring-elastic-waist-everyday-performance-shorts/pro/03533467/color/SPORT%20GRAY/?bc_pid=MDM1MzM0Njc%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="performance shorts"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-6.jpg"
+              href="https://www.express.com/clothing/men/6%22-elastic-waist-cargo-shorts/pro/03533459/color/CORK/?bc_pid=MDM1MzM0NTk%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="cargo shorts"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-7.jpg"
+              href="https://www.express.com/clothing/men/10%22-hyper-stretch-chino-shorts/pro/03533434/color/Pitch%20Black/?bc_pid=MDM1MzM0MzQ%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="chino shorts"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-8.jpg"
+              href="https://www.express.com/clothing/men/7%22-elastic-waist-seersucker-shorts/pro/03533419/color/ivory%20stripe/?bc_pid=MDM1MzM0MTk%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="seersucker shorts"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="5px"
+              src="https://exclusivecutz.com/express/more-to-pick-shirt-9.jpg"
+              href="https://www.express.com/clothing/men/7%22-elastic-waist-shorts/pro/03533464/color/Pitch%20Black/?bc_pid=MDM1MzM0NjQ%3D&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw4985323190870016"
+              alt="waist shorts"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #SHOP-NOW -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/shop-now.jpg"
+          href="https://www.express.com/mens-clothing/pants/shorts/cat1490010?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264lw6111223097712640li0"
+          alt="shop collection"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #CLEARANCE -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/clearance.jpg"
+          href="https://www.express.com/mens-clothing/sale/clearance/cat890006?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4748981408227328lw6637030861824000li0"
+          alt="clearance"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #EXPRESS-INSIDER -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/top-insider.jpg"
+          href="https://www.express.com/login?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264sa5187383886733312gw6669483467038720lw4786290264858624li0"
+          alt="express insider"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/middle-insider.jpg"
+          href="https://express.3c.com/email?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264sa5028253704249344gw6650374293512192lw5666178678874112li0"
+          alt="Get customer number"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/bottom-insider.jpg"
+          href="https://www.express.com/login?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264sa6627924138647552gw5786253238951936lw5996765826473984li0"
+          alt="express insider"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #NEW-ARRIVALS -->
+    <mj-wrapper>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/womens-arrival.jpg"
+              href="https://www.express.com/womens-clothing/whats-hot/cat120002?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw4510692705165312li0"
+              alt="womens collection"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/express-insider.jpg"
+              href="https://www.express.com/g/insider/program-benefits"
+              alt="insider benefits"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/mens-new-arrival.jpg"
+              href="https://www.express.com/mens-clothing/whats-hot/cat120009?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw5636592612007936li0"
+              alt="mens collection"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://stores.express.com/search?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw5636592612007936li1"
+              src="https://exclusivecutz.com/express/find-a-store.jpg"
+              alt="find a store"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px 0px 0px" css-class="footer__bottom__border">
+        <mj-column>
+          <mj-image
+            padding="0px"
+            src="https://exclusivecutz.com/express/free-shipping.jpg"
+            href="https://www.express.com/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw5073642658586624li0"
+            alt="free shipping"
+          />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #STORE-OPTIONS -->
+    <mj-wrapper padding="0px">
+      <mj-section padding="0px 0px 10px" css-class="footer__bottom__border">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/store-pickup.jpg"
+              href="https://www.express.com/g/help/bopis-faqs?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw4792167681875968li0"
+              alt="store pickup"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/get-texts.jpg"
+              href="https://express.3c.com/text?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw4792167681875968li1"
+              alt="get texts"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/style-advice.jpg"
+              href="https://www.express.com/g/contact-us?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw4792167681875968li2"
+              alt="style advice"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #PAY-LATER-WITH-KLARNA -->
+    <mj-section padding="0px 0px 0px 0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/express/pay-with-klarna.jpg"
+          href="https://www.express.com/g/klarna/faq?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw5355117635297280li0"
+          alt="klarna payment"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #DOWNLOAD-APPS -->
+    <mj-wrapper padding="0px">
+      <mj-section padding="0px" background-color="#f4f4f4">
+        <mj-group width="400px">
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/insta.jpg"
+              href="https://www.instagram.com/express/?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw6481017542139904li0"
+              alt="instagram"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/tik-tok.jpg"
+              href="https://www.tiktok.com/@express?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw6481017542139904li1"
+              alt="tik tok"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/face.jpg"
+              href="https://www.facebook.com/express?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw6481017542139904li2"
+              alt="facebook"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              src="https://exclusivecutz.com/express/youtube.jpg"
+              href="https://www.youtube.com/channel/UClSObHC99kT_DGmHsN9Aw-A"
+              alt="youtube"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-column>
+          <mj-image
+            padding="0px"
+            src="https://exclusivecutz.com/express/download-apps.jpg"
+            href="https://express.3c.com/appredirect?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw4694485239980032lw4651430193520640li0"
+            alt="download app"
+          />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #TERMS-AND-CONDITIONS -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text line-height="15px" font-size="12px">
+          SUMMER EXCLUSIVE OFFER | $15 OFF $30; $30 OFF $100; $40 OFF $120; $75
+          OFF $200 Valid May 13, 2024 at 3:00 a.m. through June 30, 2024 at
+          11:59 p.m. ET. In-store coupon or online promo code may only be used
+          once and cannot be combined with any other coupons or storewide
+          offers. Not valid on Labels We Love (Labels We Love includes Featured
+          Brands and Express Marketplace items), clearance, donations, or
+          previous purchases. Other restrictions may apply. See store or
+          <a class="footer__links" href="https://www.express.com/">
+            express.com
+          </a>
+          for details. Minimum purchase requirement amount is net of any
+          discounts. Sales tax, gift boxes, Edition product, donations and
+          shipping and handling are not included in the total minimum purchase
+          calculation. Taxes payable after coupon value is deducted. If you
+          return a portion of your purchase, a portion of the discount will be
+          lost. Cannot be redeemed for cash or used to purchase Express Gift
+          Cards. Valid at Express and Express Men stores only in the U.S. and
+          online at
+          <a class="footer__links" href="https://www.express.com/">
+            express.com </a
+          >. Not valid at Express Factory Outlet stores. Not valid at closing
+          stores. <br />
+          <br />
+
+          NEW STYLES ADDED! 70% OFF SELECT STYLES. EXCLUSIONS APPLY Valid for a
+          limited time. Valid on select merchandise only. Not valid on Labels We
+          Love (Labels We Love includes Featured Brands and Express Marketplace
+          items), New Markdowns, donations, clearance or previous purchases.
+          Other exclusions may apply. See store or
+          <a class="footer__links" href="https://www.express.com/">
+            express.com
+          </a>
+          for details. Cannot be used to purchase Express gift cards. Valid at
+          <a class="footer__links" href="https://www.express.com/">
+            express.com
+          </a>
+          and in Express stores. Not valid at Express Factory Outlet stores. For
+          details see Returns & Exchanges Policy.<br /><br />
+
+          NEW STYLES ADDED! EXTRA 50% OFF CLEARANCE. EXCLUSIONS APPLY. Valid for
+          a limited time. Valid on clearance merchandise only. Not valid on
+          final sale or previous purchases. May not be combined with any
+          promotion or offer. Additional discount taken in cart. Other
+          exclusions may apply. See store or
+          <a class="footer__links" href="https://www.express.com/">
+            express.com
+          </a>
+          for details. Valid online at
+          <a class="footer__links" href="https://www.express.com/">
+            express.com
+          </a>
+          and in Express Stores. Not valid in Express Factory Outlet stores.
+          Certain items including Final Sale may not be returned or exchanged.
+          For details see Returns & Exchanges Policy. <br /><br />
+
+          $10 EXPRESS CASH WITH EXPRESS TEXT MESSAGE SIGN-UP By texting the
+          keyword EMAIL to 397-737 you consent to receive recurring Express
+          mobile marketing text messages via automated system and agree to text
+          terms
+          <a class="footer__links" href="https://express.3c.com/mobilealert"
+            >https://express.3c.com/mobilealert</a
+          >. Consent to texts at number provided not required to buy goods or
+          services. Message & data rates may apply. Reply HELP for help, STOP to
+          cancel. <br /><br />
+
+          *You will be awarded a one-time $10 Bonus Express Cash if you link
+          your Express Insider account. Limit one per customer per Express
+          Insider Membership. Not eligible if you received previous linking
+          Express Cash. If the price of the product is less than the value of
+          the Express Cash, the remaining value of the Express Cash will be
+          sacrificed. Terms & conditions apply; see associate for details.<br /><br />
+
+          <a class="footer__links" href="">Offer Details</a> |
+          <a class="footer__links" href="">Terms & Conditions</a> |
+          <a class="footer__links" href="">Privacy Policy</a> <br /><br />
+
+          REFER & EARN<br />
+          If the price of the product is less than the value of the Bonus
+          Express Cash, the remaining value of the Bonus Express Cash will be
+          sacrificed. Share your referral link with friends. Once they sign up
+          and shop (via that link), you each get $5 Express Cash. Limit 10 per
+          month/$50 a month max and to earn it, the person you're referring must
+          sign up for Express Insider using your unique code and make a
+          purchase. New accounts only. Referral valid for 90 days. Bonus Express
+          Cash will be applied within 4-6 weeks into your Express Insider
+          account. A separate email will be sent to you when the Bonus Express
+          Cash is available. The Bonus Express Cash is nontransferable and valid
+          only for one-time use for the customer to whom the Express Cash is
+          issued. Bonus Express Cash has no cash value. If you return the
+          purchase, you will not receive back the value of the Bonus Express
+          Cash used to make the purchase. Cannot be used as payment on an
+          Express Credit Card account, redeemed for cash or used to purchase
+          Express gift cards. The Bonus Express Cash is valid at Express,
+          Express Men, and Express Factory Outlet stores in the U.S. and Puerto
+          Rico, and online at
+          <a class="footer__links" href="https://www.express.com/">
+            express.com </a
+          >. The Express Insider program is provided by Express and its terms
+          and conditions may change at any time. Redemption of the Bonus Express
+          Cash confirms your consent to the Express Insider program Terms and
+          Conditions. Express, LLC reserves the right to cancel your
+          participation in the Express Insider program in the event of fraud,
+          abuse of rewards privileges, or violation of the terms and conditions.
+          For complete terms and conditions, visit
+          <a class="footer__links" href="https://www.express.com/insider">
+            express.com/insider. </a
+          ><br /><br />
+
+          APP DOWNLOAD OFFER <br />
+          **Valid until end of download month. New download only. Customers will
+          receive offer within 24 hours after download. In-app ring code may
+          only be used once and cannot be combined with any other coupons or
+          storewide offers. Not valid on Labels We Love (Labels We Love includes
+          Featured Brands, Edition product and Express Marketplace items), Insta
+          Sale items, clearance, donations or previous purchases. See store or
+          <a class="footer__links" href="https://www.express.com/">
+            express.com
+          </a>
+          for details. Taxes payable after discount is deducted. If you return a
+          portion of your purchase a portion of the discount will be lost.
+          Cannot be used to purchase Express Gift Cards. Valid only when used on
+          the Express App. Not valid in Express and Express Men stores, online
+          at
+          <a class="footer__links" href="https://www.express.com/">
+            express.com </a
+          >, or Express Factory Outlet stores. Associates are not eligible.<br /><br />
+          Why did I receive this? You've received this message because you've
+          registered or accepted our invitation to receive marketing e-mails
+          from Express. If you'd like to stop receiving emails, click
+          <a
+            class="footer__links"
+            href="https://api.bluecore.app/api/channels/email_footer_eligibility?show_message=False&nqe=Yg9jCAESB2V4cHJlc3MqEHhi_mmqm0iAt4kzor8jAH0&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw6251481701220352lw4754927709216768li0"
+            >here</a
+          >
+          to unsubscribe.<br /><br />
+          Need to reply? We cannot respond to emails sent to this address, but
+          you can reach out through our Contact Us page.<br /><br />
+          Not seeing our emails? Copy and paste
+          <a href="mailto:express@b.express.com">express@b.express.com</a> into
+          your address book to ensure optimal receipt of these
+          communications.<br /><br />
+          This is an offering from Express, LLC, One Express Drive, Columbus,
+          Ohio 43230
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- #CONTACT-LINKS -->
+    <mj-section>
+      <mj-column>
+        <mj-text align="center">
+          <a
+            class="footer__links"
+            href="https://www.express.com/g/privacy-policy?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw6251481701220352lw4754927709216768li2"
+            >Privacy Policy</a
+          >
+          |
+          <a
+            class="footer__links"
+            href="https://www.express.com/g/terms-conditions.html?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw6251481701220352lw4754927709216768li3"
+            >Terms &amp; Conditions</a
+          >
+          |
+          <a
+            class="footer__links"
+            href="https://www.express.com/g/contact-us?om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw6251481701220352lw4754927709216768li4"
+            >Contact Us</a
+          >
+          |
+          <a
+            class="footer__links"
+            href="https://api.bluecore.app/api/channels/email_footer_eligibility?show_message=False&nqe=Yg9jCAESB2V4cHJlc3MqEHhi_mmqm0iAt4kzor8jAH0&om_mid=_TM_20240629_DIGITAL-34212_RTL_M_PIMA-TEESANDTANKS_20_c_s_1445&obem=93MsW8anuMeGZ91j7Qjkaqph564rkxL7SCvAfAb_uFs%3D&bc_lcid=t5932975478923264gw6251481701220352lw4754927709216768li5"
+            >Unsubscribe</a
+          >
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
